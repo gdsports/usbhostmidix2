@@ -7,6 +7,9 @@ versa. Connect two USB MIDI devices to each other without a computer. For
 example, connect a USB MIDI controller to a USB MIDI guitar amp/effects box. Or
 connect a USB MIDI keyboard to a synth.
 
+For more than two USB MIDI devices, see the Raspberry Pi version of a USB host
+MIDI hub. [https://github.com/gdsports/rpi-usb-host-midi-hub](https://github.com/gdsports/rpi-usb-host-midi-hub)
+
 ## Hardware
 
 * 2 x Adafruit Trinket M0 boards
